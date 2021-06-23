@@ -1,0 +1,6 @@
+# em um projeto normal:
+web/static/*
+!web/static/.gitkeep
+node_modules
+tmp
+docs
