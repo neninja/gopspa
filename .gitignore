@@ -1,5 +1,6 @@
 # em um projeto normal:
 web/static/*
+*.exe
 !web/static/.gitkeep
 node_modules
 tmp
