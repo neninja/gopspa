@@ -57,6 +57,7 @@ A separação pode ser feita de duas formas:
 
 ## Referências
 
+- https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html
 - https://golang.org/doc/effective_go
 - https://blog.golang.org/package-names
 - https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html
